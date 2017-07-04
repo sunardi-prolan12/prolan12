@@ -1,0 +1,107 @@
+-----------------------------------------------------------------------------------------
+| PERTEMUAN 	|	MATERI		|	PENJELASAN		| GITHUB	|
+-----------------------------------------------------------------------------------------
+|	1	| PENDAHULUAN		|- ATURAN PERKULIAHAN 		|		|
+|     		|			|- PENGENALAN JAVA		|PERTEMUAN 1	|
+|		|			|- MEMBUAT AKUN GITHUB		|		|
+|		|		LAB :	|* MEMBUAT PROGRAM HELLO WORLD	|		|
+|----------------------------------------------------------------------------------------
+|	2	| KONSEP OOP		|- OOP -> PARADIGMA YANG 	|		|
+|		|			|  BERDASARKAN PADA OBJEK	|PERTEMUAN 2	|
+|		|		LAB :	|* MEMBUAT PROGRAM INPUT DAN 	|		|
+|		|			|  OUTPUT			|		|
+-----------------------------------------------------------------------------------------
+|	3	| KELAS DAN OBJEK	|- KELAS MERUPAKAN SUATUBENTUK  |		|
+|		|			|  KLARIFIKASI DARI BENTUK OBJEK|		|
+|		|			|  OBJEK			|		|
+|		|			|CONTOH KLAS :			|		|
+|		|			|PUBLIC CLASS MAHASISWA { }	|		|
+|		|			|				|		|
+|		|			|- OBJEK MERUPAKAN INSTANSIASI  |PERTEMUAN 3	|
+|		|			|  DARI KELAS			|		|
+|		|		LAB :	|* MEMBUAT PROGRAM TIPE DATA	|		|
+|		|			|* MENCARI CLASS DAN OBJEK 	|		|
+|		|			|  SENDIRI			|		|
+|		|			|* MEMBUAT PROGRAM DARI		|		|
+|		|			|  CLASS DAN OBJEK YANG DICARI	|		|
+|----------------------------------------------------------------------------------------
+|	4	| METHOD,KONSTRUKTOR,	|- METHOD ADALAH SEKUMPULAN 	|		|
+|		| THIS, ATRIBUT		|  PROGRAM ATAU PROSEDUR YANG	|		|
+|		|			|  SECARA BERSAMA SAMA		|		|
+|		|			|  MELAKUKAN TASK		|		|
+|		|			|				|		|
+|		|			|- METHOD OVERLOADING		|		|
+|		|			|				|		|
+|		|			|- KONSTRUKTOR ADALAH PROSEDUR	|		|
+|		|			|  ATAU AKSI AKSI YANG MEMILIKI	|		|
+|		|			|  NAMA YANG SAMA DENGAN KELAS	|		|
+|		|			|				|		|
+|		|			|- THIS DIGUNAKAN SEBAGAI 	|		|
+|		|			|  REFERENSI SEBUAH OBJEK DARI 	|PERTEMUAN 4	|
+|		|			|  KELAS DIMANA "THIS" 		|		|
+|		|			|  TERSEBUT DIGUNAKAN		|		|
+|		|			|				|		|
+|		|			|- ATRIBUT MEREPRESENTASIKAN	|		|
+|		|			|  DATA DARI SEBUAH KELAS	|		|
+|		|			|  DAN MELEKAT PADA OBJEK	|		|
+|		|			|CONTOH :			|		|
+|		|			|  class numerik {int x;}	|		|
+|		|			|				|		|
+|		|		LAB :	|* MEMBUAT PROGRAM DENGAN METHOD|		|
+|		|			|* MEMBUAT PROGRAM OVERLOADING	|		|
+|		|			|* MEMBUAT PROGRAM PERULANGAN	|		|
+|		|			|  HITUNG IP			|		|
+|		|			|* MENERAPKAN METHOD, THIS, 	|		|
+|		|			|  KONSTRUKTOR, ATRIBUT KE TUGAS|		|
+|		|			|  SEBELUMNYA			|		|
+-----------------------------------------------------------------------------------------
+|	5	| INHERITANCE		|- PEWARISAN YANG MEMUNGKINKAN	|		|
+|		|			|  UNTUK MENGGUNAKAN KELAS YANG	|		|
+|		|			|  DITURUNKAN			|PERTEMUAN 5	|
+|		|			|CONTOH :			|		|
+|		|			| class BAPAK {}		|		|
+|		|			| class ANAK extends BAPAK{}	|		|
+|		|		LAB :	|* MENERAPKAN INHERITANCE KE	|		|
+|		|			|  TUGAS SEBELUMNYA		|		|
+-----------------------------------------------------------------------------------------
+|	6	| OVERRIDE		|- DIMUNGKINKAN UNTUK 		|		|
+|		|			|  MEMODIFIKASI ATAU 		|		|
+|		|			|  MENGIMPLEMENTASIKAN SUATU	|		|
+|		|			|  METHOD YANG DI TURUNKAN	|PERTEMUAN 6	|
+|	7	|FOLIMORFISME		|- MEMBAHAS ATURAN OVERRIDING	|		|
+|		|			|				|		|
+|		|		LAB :	|* MELANJUTKAN PROGRAM 		|		|
+|		|			|  SEBELUMNYA BAGI YANG BELUM 	|		|
+|		|			|  DAN DILAKUKAN PENILAIAN	|		|
+-----------------------------------------------------------------------------------------
+|	9	| ABSTRAKTION		|- DIGUNAKAN UNTUK OPEN SOURCE	|		|
+|		|			|  PROGRAM AGAR MEMUDAHKAN 	|		|
+|		|			|  PENGEMBANG ATAU MEMBERITAHU	|		|
+|		|			|  PENGEMBANG BAGAIMANA CARA	|PERTEMUAN 9	|
+|		|			|  KERJANYA			|		|
+|		|		LAB :	|* MENERAPKAN ABTRACTION KE	|		|
+|		|			|  TUGAS SEBELUMNYA		|		|
+-----------------------------------------------------------------------------------------
+|	10	| ENCAPSULATION		|- SEBUAH PROSES ATAU MEKANISME	|		|
+|		|			|  YANG MEMBUNGKUS DATA DAN	|		|
+|		|			|  FUNGSI DARI SEBUAH KELAS	|		|
+|		|			|  MENJADI SEBUAH UNIT		|		|
+|		|		LAB :	|* MEMBUAT GETTER DAN SETTER	|PERTEMUAN 10	|
+-----------------------------------------------------------------------------------------
+|		|			|				|		|
+|		|			|				|		|
+|		|			|				|		|
+|		|			|				|		|
+|		|			|				|		|
+|		|			|				|		|
+|		|			|				|		|
+|		|			|				|		|
+|		|			|				|		|
+|		|			|				|		|
+|		|			|				|		|
+|		|			|				|		|
+|		|			|				|		|
+|		|			|				|		|
+|		|			|				|		|
+|		|			|				|		|
+|		|			|				|		|
